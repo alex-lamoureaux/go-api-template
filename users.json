@@ -1,0 +1,27 @@
+[
+  {
+    "name": {
+      "first_name": "Alex",
+      "last_name": "Lamoureaux"
+    },
+    "address": {
+      "line1": "123 example street",
+      "city": "example town",
+      "state": "Minnesota",
+      "zip": "12345"
+    }
+  },
+  {
+    "name": {
+      "first_name": "John",
+      "last_name": "Example",
+      "middle_name_1": "The"
+    },
+    "address": {
+      "line1": "124 example street",
+      "city": "example town",
+      "state": "Minnesota",
+      "zip": "12345-1234"
+    }
+  }
+]
